@@ -1,0 +1,4 @@
+﻿  MPI.cpp
+C:\Users\forus\source\repos\MPI\MPI.cpp(42,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\forus\source\repos\MPI\MPI.cpp(70,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MPI.vcxproj -> C:\Users\forus\source\repos\MPI\x64\Debug\MPI.exe
